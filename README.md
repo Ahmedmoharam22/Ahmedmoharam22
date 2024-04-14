@@ -9,7 +9,7 @@
     <img  width="80px" src="https://img.freepik.com/free-psd/3d-icon-social-media-app_23-2150049579.jpg?t=st=1713108311~exp=1713111911~hmac=36fdbf3a13bd870e489d1bccfe0652d1ded7508f3ba9e334a136cd770ed4439e&w=740" />
   </a>
 </p>
-<img src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901783.jpg?w=996&t=st=1713108007~exp=1713108607~hmac=5be8b5dffa660fc04010f90cf884bae53b25066c3d67d8d5b690037e55f247dd" alt="profile_img" />
+<img src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901783.jpg?w=996&t=st=1713108007~exp=1713108607~hmac=5be8b5dffa660fc04010f90cf884bae53b25066c3d67d8d5b690037e55f247dd" height="200px" alt="profile_img" />
 
 
 Certainly! Here's a descriptive profile summary you can use on GitHub as a frontend developer:

@@ -2,8 +2,12 @@
 
 <h1 align="center">Hi I'm Ahmed Moharam👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-moharam-2b70a928b/">Linkedin</a>
-  <a href="https://www.facebook.com/ahmed.moharam.1485/">Facebook</a>
+  <a href="https://www.linkedin.com/in/ahmed-moharam-2b70a928b/">
+    <img src="https://img.freepik.com/premium-vector/3d-linkedin-logo-social-media-icon-button_92086-549.jpg?w=740" />
+  </a>
+  <a href="https://www.facebook.com/ahmed.moharam.1485/">
+    <img src="https://img.freepik.com/free-psd/3d-icon-social-media-app_23-2150049579.jpg?t=st=1713108311~exp=1713111911~hmac=36fdbf3a13bd870e489d1bccfe0652d1ded7508f3ba9e334a136cd770ed4439e&w=740" />
+  </a>
 </p>
 <img src="https://img.freepik.com/free-photo/programming-background-collage_23-2149901783.jpg?w=996&t=st=1713108007~exp=1713108607~hmac=5be8b5dffa660fc04010f90cf884bae53b25066c3d67d8d5b690037e55f247dd" alt="profile_img" />
 

@@ -1,4 +1,4 @@
-🔭 I’m currently studying at faculty of engineering, mansoura University, Egypt.
+🔭 I’m currently studying at the faculty of engineering, Mansoura University, Egypt.
 
 🌱 I’m learning Frontend Web Development.
 
@@ -6,9 +6,9 @@
 
 💬 Ask me about Web Technologies.
 
-📫 How to reach me: ahmedmoharam2002@gmail.com.
+📫 How to reach me: ahmed.moharam.work@gmail.com.
 
-😌 I love coding, gaming, reading, drawing and more...
+😌 I love coding, gaming, reading, drawing, and more...
 
 
 

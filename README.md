@@ -10,6 +10,15 @@
 
 😌 I love coding, gaming, reading, drawing, and more...
 
-
+### 🛠 Tech Stack & Tools  
+- 💻 *Frontend:* HTML, CSS, JavaScript, TypeScript, React, Next.js  
+- 🎨 *Styling:* Tailwind CSS, Bootstrap, Sass  
+- ⚙ *State Management:* Redux, Context API  
+- 🔧 *Build Tools & Libraries:* Webpack, Vite, Babel  
+- 🗄 *Backend (Basics):* Node.js, Express.js  
+- 🛢 *Databases (Basics):* MongoDB, Firebase  
+- 🛠 *Version Control:* Git, GitHub  
+- 📦 *Package Managers:* npm, yarn  
+- 🖥 *Tools & Platforms:* Figma, Postman, VS Code, Netlify, Vercel
 
 

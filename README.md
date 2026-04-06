@@ -12,8 +12,8 @@
 
 ### 🛠 Tech Stack & Tools  
 - 💻 *Frontend:* HTML, CSS, JavaScript, TypeScript, React, Next.js  
-- 🎨 *Styling:* Tailwind CSS, Bootstrap, Sass  
-- ⚙ *State Management:* Redux, Context API  
+- 🎨 *Styling:* Tailwind CSS, Bootstrap, Sass, MUI  
+- ⚙ *State Management:* Redux, Context API, React Query  
 - 🔧 *Build Tools & Libraries:* Webpack, Vite, Babel  
 - 🗄 *Backend (Basics):* Node.js, Express.js  
 - 🛢 *Databases (Basics):* MongoDB, Firebase  

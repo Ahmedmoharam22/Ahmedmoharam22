@@ -1,4 +1,4 @@
-🔭 I’m currently studying at the faculty of engineering, Mansoura University, Egypt.
+🔭 I’m a graduate of the Faculty of Engineering, Mansoura University, Computer Engineering Department, Egypt.
 
 🌱 I’m learning Frontend Web Development.
 

@@ -26,45 +26,85 @@ I enjoy turning complex ideas and UI/UX designs into **clean, maintainable, and 
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 💻 Frontend Development
 
-`HTML5` `CSS3` `JavaScript` `TypeScript` `React` `Next.js`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
-### Styling & UI
+### 🎨 Styling & UI
 
-`Tailwind CSS` `Sass` `Bootstrap` `Material UI` `shadcn/ui`
+<p align="left">
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="45" height="45"/>
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" width="45" height="45"/>
+  </a>
+  <a href="https://mui.com/">
+    <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="45" height="45"/>
+  </a>
+<a href="https://ui.shadcn.com/">
+  <img
+    src="https://cdn.simpleicons.org/shadcnui/ffffff"
+    alt="shadcn/ui"
+    width="45"
+    height="45"
+  />
+</a>
+</p>
 
-### State Management & Data Fetching
+## 📝 Forms & Validation
 
-`React Query` `Redux Toolkit` `Zustand` `Context API`
+<p align="left">
 
-### Build Tools & Development
+  <a href="https://react-hook-form.com/">
+    <img
+      src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"
+      alt="React Hook Form"
+    />
+  </a>
 
-`Vite` `Webpack` `Babel` `npm` `Yarn`
+  <a href="https://zod.dev/">
+    <img
+      src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"
+      alt="Zod"
+    />
+  </a>
 
-### Backend & Database
+</p>
 
-`Node.js` `Express.js` `MongoDB` `Firebase`
 
-### Tools & Platforms
+### ⚡ State Management & Data Fetching
 
-`Git` `GitHub` `Figma` `Postman` `VS Code` `Vercel` `Netlify`
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+</p>
 
----
+### 🔧 Backend & Database
 
-## 💡 What I Care About
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="45" height="45"/>
+  </a>
+</p>
 
-```text
-Clean Code          → Writing readable, maintainable & reusable code
-Performance         → Fast and optimized web experiences
-Responsive Design   → Great UX across all screen sizes
-Accessibility       → Interfaces that work for everyone
-Scalability         → Building applications that can grow
-Developer Experience → Consistent workflows and clean architecture
-User Experience     → Turning designs into intuitive products
-```
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+</p>
 
----
 
 ## 🚀 Featured Projects
 

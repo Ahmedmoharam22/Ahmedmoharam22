@@ -113,11 +113,46 @@ I’m continuously building projects that demonstrate my ability to work with mo
 👉 **Check out my pinned repositories below to see what I'm building.**
 
 ---
-
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, teams, and companies working on exciting products and challenging problems.
+I'm always interested in connecting with developers, teams, and companies building impactful products and solving challenging problems.
 
-📫 **Email:** [ahmed.moharam.work@gmail.com](mailto:ahmed.moharam.work@gmail.com)
+<p align="left">
+  <a href="mailto:ahmed.moharam.work@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="42" height="42" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/a7medmoharam">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+<a href="https://ahmed-moharam.vercel.app/" target="_blank">
+  <img
+    src="https://api.iconify.design/lucide:globe.svg?color=%23888888"
+    width="42"
+    height="42"
+    alt="Portfolio"
+  />
+</a>
+  &nbsp;&nbsp;
+  <a href="tel:+201092635055">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="42" height="42" alt="Phone" />
+  </a>
+</p>
 
-⭐ If you find any of my projects useful, feel free to star the repository!
+<p>
+  📧 <strong>Email:</strong>
+  <a href="mailto:ahmed.moharam.work@gmail.com">ahmed.moharam.work@gmail.com</a>
+  <br>
+  📱 <strong>Phone:</strong>
+  <a href="tel:+201092635055">+20 109 263 5055</a>
+  <br>
+  💼 <strong>LinkedIn:</strong>
+  <a href="https://www.linkedin.com/in/a7medmoharam">linkedin.com/in/a7medmoharam</a>
+  <br>
+  🌐 <strong>Portfolio:</strong>
+  <a href="https://ahmed-moharam.vercel.app/">ahmed-moharam.vercel.app</a>
+</p>
+
+⭐ If you find any of my projects useful, feel free to **star the repository** — it really helps!
+

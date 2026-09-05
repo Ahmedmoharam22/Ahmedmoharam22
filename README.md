@@ -1,3 +1,8 @@
+
+<img width="1774" height="887" alt="Image Sep 5, 2026, 03_07_30 PM" src="https://github.com/user-attachments/assets/63940540-6f29-4815-bd11-c5a50b1b1e8b" />
+
+
+
 # 👋 Hi, I'm Ahmed Moharam
 
 ### Front-End Developer | React & Next.js | TypeScript | Modern Web Development
